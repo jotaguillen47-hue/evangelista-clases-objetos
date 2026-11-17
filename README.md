@@ -58,4 +58,4 @@ La cantidad cero es aceptada y el valor total del producto resulta 0.
 
 ## Repositorio GitHub
 
-(https://github.com/jotaguillen47-hue/Julio-Evangelista-clases-objetos)
+(https://github.com/jotaguillen47-hue/evangelista-clases-objetos)
